@@ -1,0 +1,11 @@
+{
+  "name": "nodemysqlimradioapitest",
+  "version": "1.0.0",
+  "description": "a test of using node mysql to create a simple artist list crud api.  Will be used to test different technologies for speed, efficiency of coding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lee R. Lemon III",
+  "license": "ISC"
+}
